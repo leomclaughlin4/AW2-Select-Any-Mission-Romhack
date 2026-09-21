@@ -1,7 +1,7 @@
 # AW2-Select-Any-Mission-Romhack
 
 ### Features
-This ROMhack will allow you to select any campaign mission from Versus mode, then select any CO you want to use, then start the mission
+This ROMhack will allow you to select any campaign mission from Versus mode, then select any CO you want to use, you can also choose which side will be P1 and which side will be AI
 
 
 ### Install Instructions
